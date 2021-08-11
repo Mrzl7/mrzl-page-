@@ -1,0 +1,36 @@
+
+body{
+  Background-color:  #C2FFD9;
+}
+
+hr {
+  border-style: non;
+  border-top-style: dotted;
+  border-color: pink;
+  border-width: 10px;
+  width: 100%;
+}
+h1 {color: Green;}
+h2 {color: black;}
+
+body{
+  color: red;
+}
+ p {
+   color: black;
+ }
+
+ table {
+   color: maroon;
+ }
+
+ <style>
+html, body {
+  height: 100%;
+}
+
+img.a {
+  height: 20%;
+  width: 20%;
+}
+</style>
